@@ -1,0 +1,68 @@
+body {
+	background-color: rgb(50,50,50);
+    font-family: "Bahnschrift"; 
+	font-weight: 300;
+	color: rgb(248,240,240);
+	}
+	
+	div {
+	background-color: rgb(72,72,75);
+	padding: 15px 20px 15px 20px;
+	margin: 0% 10% 5% 10%;
+	border:5px solid rgb(61,61,62);
+	}
+	
+	div p {
+	text-align: justify;
+	font-size: 105%;
+	line-height: 25px;
+	}
+	
+	.buttondiv {
+	padding:10px 15px 10px 15px;
+	margin: 0% 5% 1% 5%;
+	text-align: center;
+	color: rgb(248,240,240);
+	font-weight:400;
+	}
+	
+	.gallery {
+	border:none;
+	padding: 5px 5px 5px 5px;
+	}
+	
+	.navdiv a{
+	text-decoration: none;
+	background-color:rgb(55,55,55);
+	}
+	
+	.reffooter {
+	text-align:center;
+	}
+	
+	.reffootertext {
+	line-height:22.5px;
+	font-size:85%;
+	text-align:center;
+	}
+	
+	.title {
+	text-align: center;
+	font-size: 400%;
+	}
+	
+	.title2 {
+	text-align: center;
+	font-size: 250%;
+	}
+	
+	#imagebox div{
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: center;
+	}
+	
+	#imagebox div {
+	margin-left:5px;
+	margin-right:5px;
+	}
